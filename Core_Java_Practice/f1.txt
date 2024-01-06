@@ -1,0 +1,2 @@
+Hi, This is Parthu.
+Now I am explain about how to read the data from the file by using java 8
